@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurishankarsah&label=Profile%20views&color=0e75b6&style=flat" alt="gaurishankarsah" /> </p>
 
-- 🔭 I’m currently working on [Personal Desktop Assistant(Charlie Python Based)](https://drive.google.com/file/d/1G3MKsCk1xwRgGnJNNe4piSH-z_AED_HX/view?usp=share_link)
+- 🔭 I’m currently working on [Personal Desktop Assistant(Charlie Python Based)]
 
 - 🌱 I’m currently learning **Cyber Security Course**
 
