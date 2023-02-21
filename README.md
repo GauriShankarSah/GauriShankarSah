@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **Certified Cyber Warrior**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1aY5Mv3d0XQp0B1FVdFzvVziyjbdQRvmW?usp=share_link](https://drive.google.com/drive/folders/1aY5Mv3d0XQp0B1FVdFzvVziyjbdQRvmW?usp=share_link)
-
 - 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me **gshankarjnk@gmail.com**
